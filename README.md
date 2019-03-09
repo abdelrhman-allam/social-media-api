@@ -8,3 +8,6 @@ Social media integration with PHP
 * Access Profile Data
 * Read Data From Profile
 * Post Feeds
+
+## LinkedIn
+  * Login - *PHP*
