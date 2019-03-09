@@ -9,5 +9,8 @@ Social media integration with PHP
 * Read Data From Profile
 * Post Feeds
 
+## Google
+  * Google Oauth2 API
+
 ## LinkedIn
   * Login - *PHP*
