@@ -2,3 +2,5 @@
 /nbproject
 /*/*/client_secrets.json
 /Google/php-oauth2/client_secrets.json
+vendor
+/**/vendor/*
