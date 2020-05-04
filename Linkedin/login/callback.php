@@ -15,8 +15,8 @@ if ($_GET['code']) {
     $params = "grant_type=authorization_code";
     $params .= "&code=".$code;
     $params .= "&redirect_uri=http://localhost:8700/callback.php";
-    $params .= "&client_id=78p317wy61fb5y";
-    $params .= "&client_secret=O8z1ujxTZL25Wl2K";
+    $params .= "&client_id=";
+    $params .= "&client_secret=";
     
           curl_setopt($ch, CURLOPT_POST, 1);
 
