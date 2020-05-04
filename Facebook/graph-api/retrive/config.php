@@ -21,8 +21,8 @@ use Facebook\Exceptions\FacebookSDKException;
 /*
  * Configuration and setup Facebook SDK
  */
-$appId         = '2323967644315134'; //Facebook App ID
-$appSecret     = 'fc0125f3041dad12c3e2040394ea2fe5'; //Facebook App Secret
+$appId         = 'CREATE FB APP'; //Facebook App ID
+$appSecret     = 'CREATE FB APP'; //Facebook App Secret
 $redirectURL   = 'http://localhost:8000'; //Callback URL
 $fbPermissions = array('user_posts','user_friends', 'user_photos','user_likes'); //Facebook permission
 
